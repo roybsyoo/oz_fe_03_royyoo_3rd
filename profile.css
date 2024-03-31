@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+html{
+    background-color:rgb(155, 239, 211);
+}
+
+body{
+    width: 630px;
+    margin: auto; /*너비에서 남는 여백을 동일하게 분배 */
+    border-width: 2px;
+    border-style: solid;
+
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    font-family: monospace;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+p{
+    font-size: 1.5rem;
+    
+}
